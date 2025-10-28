@@ -22,7 +22,7 @@ I chose the Earthquake Visualizer challenge because it aligned with my interest 
 
 ## 🌐 Live Demo
 
-🔗 [View on GitHub Pages](https://Prathibha-B.github.io/earthquake-visualizer)
+🔗 [Earthquake Visualizer](https://Prathibha-B.github.io/earthquake-visualizer)
 
 ## Installation
 
