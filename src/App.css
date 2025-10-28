@@ -1,0 +1,70 @@
+.App {
+    text-align: center;
+    font-family: sans-serif;
+    padding: 1rem;
+}
+
+header {
+    margin-bottom: 1rem;
+}
+
+.slider-container {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.slider-container input[type="range"] {
+    width: 300px;
+    margin-left: 1rem;
+    accent-color: #0077cc;
+}
+
+.legend {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+}
+
+.legend img {
+    vertical-align: middle;
+    width: 20px;
+    height: 30px;
+    margin-right: 0.3rem;
+}
+.App {
+    text-align: center;
+    font-family: sans-serif;
+    padding: 1rem;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.App.light {
+    background-color: #f5f5f5;
+    color: #222;
+}
+
+.App.dark {
+    background-color: #1e1e1e;
+    color: #eee;
+}
+
+header button {
+    margin-top: 0.5rem;
+    padding: 0.4rem 1rem;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+
+.spinner {
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 2rem;
+}
+.no-results {
+    margin-left: 1rem;
+    color: #cc0000;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
