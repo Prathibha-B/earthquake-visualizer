@@ -18,6 +18,10 @@ An interactive web app that displays real-time earthquake data on a world map us
 - JavaScript (ES6+)
 - HTML/CSS
 
+## 🌐 Live Demo
+
+🔗 [View on GitHub Pages](https://Prathibha-B.github.io/earthquake-visualizer)
+
 ## Installation
 
 ```bash
