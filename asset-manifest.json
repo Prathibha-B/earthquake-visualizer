@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/earthquake-visualizer/static/css/main.3fbbc851.css",
+    "main.js": "/earthquake-visualizer/static/js/main.0d513374.js",
+    "index.html": "/earthquake-visualizer/index.html",
+    "main.3fbbc851.css.map": "/earthquake-visualizer/static/css/main.3fbbc851.css.map",
+    "main.0d513374.js.map": "/earthquake-visualizer/static/js/main.0d513374.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fbbc851.css",
+    "static/js/main.0d513374.js"
+  ]
+}
